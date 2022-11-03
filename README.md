@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mairton-rodrigues-164923251" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mairton-rodrigues-164923251" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mairton-rodrigues-164923251" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mairton-rodrigues-164923251" height="30" width="40" /></a>
 <a href="https://instagram.com/mairton_kkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mairton_kkj" height="30" width="40" /></a>
 <a href="https://discord.gg/brzinxd#3447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brzinxd#3447" height="30" width="40" /></a>
 </p>
