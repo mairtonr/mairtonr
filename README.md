@@ -23,4 +23,4 @@
 
 ##  🐍 &nbsp; Snake
 
-![Snake animation](https://github.com/mairtonr/mairtonr/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/nairtonr/mairtonr/blob/output/github-contribution-grid-snake.svg)
