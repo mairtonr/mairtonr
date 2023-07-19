@@ -1,5 +1,7 @@
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
+<h2>Hello World, I'm Maiton Rodrigues</h2>
+<h3>Always Learning</h3>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h3>A little about me</h3>
+<h4>Brazilian, currently in the 3rd of high school</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mairton-rodrigues-164923251" target="_blank" rel="noreferrer noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mairton-rodrigues-164923251" height="30" width="40" /></a>
